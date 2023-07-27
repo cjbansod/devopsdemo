@@ -1,0 +1,11 @@
+main(){
+    Function1(){
+        printf("This is function 1");
+    }
+<<<<<<< HEAD
+=======
+    Function2(){
+        printf("This is function 2");
+    }    
+>>>>>>> feature1
+}
